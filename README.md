@@ -13,7 +13,7 @@ Features
 Clone the repository and compile the source files:
 
 ```sh
-git clone https://github.com/yourusername/libbencode.git
+git clone https://github.com/afraz98/libbencode.git
 cd libbencode
 mkdir build
 cd build
